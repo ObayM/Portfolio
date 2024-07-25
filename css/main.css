@@ -31,10 +31,13 @@
 .hexagon-content {
     text-align: center;
     z-index: 1;
+    color: white;
 }
 .skill-icon {
     font-size: 3em;
     margin-bottom: 10px;
+    color: var(--yellow);
+
 }
 .skill-name {
     font-weight: bold;
